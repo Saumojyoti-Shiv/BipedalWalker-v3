@@ -1,0 +1,24 @@
+# ============================================================
+# BipedalWalker-v3 PPO — Python Dependencies
+# ============================================================
+# Install with:  pip install -r requirements.txt
+# Tested with Python 3.10+
+# ============================================================
+
+# Gymnasium with Box2D physics engine (provides BipedalWalker-v3)
+gymnasium[box2d]>=0.29.1
+
+# Stable Baselines3 — high-quality RL algorithm implementations
+stable-baselines3>=2.3.0
+
+# Hugging Face x Stable-Baselines3 integration (model sharing)
+huggingface_sb3>=3.0
+
+# Pygame — used by Gymnasium for human-mode rendering
+pygame>=2.5.0
+
+# MoviePy — required by gymnasium.wrappers.RecordVideo for mp4 encoding
+moviepy>=1.0.3
+
+# TensorBoard — optional but recommended for monitoring training curves
+tensorboard>=2.14.0
