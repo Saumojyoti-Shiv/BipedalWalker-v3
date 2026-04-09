@@ -178,5 +178,5 @@ bipedal-walker-ppo/
 ---
 
 <div align="center">
-  <sub>Built with ❤️ using Stable Baselines3, Gymnasium &amp; PPO</sub>
+  <sub>Built with using Stable Baselines3, Gymnasium &amp; PPO</sub>
 </div>
