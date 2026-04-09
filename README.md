@@ -2,9 +2,20 @@
 
 <div align="center">
 
+### 👥 Team Members
+
+| Name                     | Roll Number   |
+|--------------------------|---------------|
+| **Saumojyoti Chakraborty** | 23BAI11065    |
+| **Antisha Ray**            | 23BAI10516    |
+
+---
+
 **Teaching a simulated robot to walk using Deep Reinforcement Learning**
 
-![Bipedal Walker](videos/demo.gif)
+| Episode 0 | Episode 18 |
+|:---------:|:----------:|
+| ![Episode 0](videos/bipedal-walker-ppo-episode-0.gif) | ![Episode 18](videos/bipedal-walker-ppo-episode-18.gif) |
 
 *A PPO agent learning to master continuous locomotion control over 1 M+ timesteps.*
 
@@ -162,15 +173,6 @@ bipedal-walker-ppo/
 │   └── bipedal-walker-ppo-episode-0.mp4
 └── logs/                  # TensorBoard training logs (auto-created)
 ```
-
----
-
-## 👥 Team Members
-
-| Name                     | Roll Number   |
-|--------------------------|---------------|
-| **Saumojyoti Chakraborty** | 23BAI11065    |
-| **Antisha Ray**            | 23BAI10516    |
 
 ---
 
