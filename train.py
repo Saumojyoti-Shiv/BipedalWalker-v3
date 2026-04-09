@@ -17,8 +17,6 @@
      python train.py                    # train with default settings
      python train.py --timesteps 2e6   # override total timesteps
      python train.py --n-envs 8        # use 8 parallel environments
-
- License: MIT
 ==========================================================================
 """
 

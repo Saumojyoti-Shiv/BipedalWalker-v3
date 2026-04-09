@@ -12,8 +12,6 @@
      python watch_agent.py --episodes 5          # run 5 episodes
      python watch_agent.py --no-render           # record only (headless)
      python watch_agent.py --model models/final_model.zip
-
- License: MIT
 ==========================================================================
 """
 

@@ -15,14 +15,13 @@
 
 | Episode 0 | Episode 18 |
 |:---------:|:----------:|
-| ![Episode 0](videos/bipedal-walker-ppo-episode-0.gif) | ![Episode 18](videos/bipedal-walker-ppo-episode-18.gif) |
+| <img src="videos/bipedal-walker-ppo-episode-0.gif" width="400"/> | <img src="videos/bipedal-walker-ppo-episode-18.gif" width="400"/> |
 
 *A PPO agent learning to master continuous locomotion control over 1 M+ timesteps.*
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://python.org)
 [![Stable Baselines3](https://img.shields.io/badge/Stable_Baselines3-2.3+-FF6F00?logo=python)](https://stable-baselines3.readthedocs.io/)
 [![Gymnasium](https://img.shields.io/badge/Gymnasium-0.29+-0081A5)](https://gymnasium.farama.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 </div>
 
@@ -175,10 +174,6 @@ bipedal-walker-ppo/
 ```
 
 ---
-
-## 📄 License
-
-This project is released under the [MIT License](LICENSE).
 
 ---
 
