@@ -2,15 +2,6 @@
 
 <div align="center">
 
-### 👥 Team Members
-
-| Name                     | Roll Number   |
-|--------------------------|---------------|
-| **Saumojyoti Chakraborty** | 23BAI11065    |
-| **Antisha Ray**            | 23BAI10516    |
-
----
-
 **Teaching a simulated robot to walk using Deep Reinforcement Learning**
 
 | Episode 0 | Episode 18 |
